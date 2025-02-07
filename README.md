@@ -17,4 +17,4 @@ Ce projet explore les concepts fondamentaux du **traitement du signal numérique
 ➡️ [Traitement du Signal, échantillonnage et filtrage (Notebook)](./Notebook_Traitement_Signal.ipynb)
 
 **Fichier Python associé :**  
-➡️ [Traitement_Signal.py](./src/Python_Traitement_Signal.ipynb)
+➡️ [Traitement_Signal.py](./src/Python_Traitement_Signal.py)
