@@ -14,7 +14,7 @@ Ce projet a été réalisé dans le cadre d'un module universitaire afin d'explo
   - Comparaison des effets des fenêtres de Hann et rectangulaire.
 
 **Consulter le rapport complet :**  
-➡️ [Traitement du Signal, échantillonnage et filtrage (Notebook)](./Notebook_Traitement_Signal.ipynb)
+➡️ [Version Notebook](./Notebook_Traitement_Signal.ipynb) ou [Version PDF](./Traitement_Signal.pdf)
 
 **Fichier Python associé :**  
-➡️ [Traitement_Signal.py](./src/Python_Traitement_Signal.py)
+➡️ [Python_Traitement_Signal.py](./src/Python_Traitement_Signal.py)
