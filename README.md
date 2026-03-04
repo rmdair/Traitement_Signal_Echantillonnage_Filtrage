@@ -1,13 +1,19 @@
-<div align="center">
-  <h1> Traitement du Signal - Échantillonnage et Filtrage </h1>
-</div> 
+<h1 align="center">Traitement du signal numérique</h1>
+<h2 align="center">Échantillonnage et filtrage</h2> 
 
-## Description 
-Ce projet a été réalisé dans le cadre d'un module universitaire afin d'explorer les concepts fondamentaux du **traitement du signal numérique**. Il met en avant les principes de **l’échantillonnage** et des **filtres RIF (Réponse Impulsionnelle Finie)**. L’objectif est de comprendre l’impact des paramètres sur la qualité du signal et d’évaluer différentes techniques de filtrage.
+<p align="center">
+  <img src="assets/banner.webp" alt="Banner" width="60%">
+</p>
+
+Ce projet a été réalisé dans le cadre d’un module universitaire visant à explorer les concepts fondamentaux du **traitement du signal numérique**. Il met en avant les principes de l’échantillonnage et des filtres RIF (*Réponse Impulsionnelle Finie*).
+
+ L’objectif est de comprendre l’impact des paramètres sur la qualité du signal et d’évaluer différentes techniques de filtrage.
+
+<br>
 
 ## Points clés  
-- **Échantillonnage** : Implémentation de l’échantillonnage d’un signal continu et analyse du théorème de Shannon-Nyquist.
-- **Transformée de Fourier** : Étude du spectre des signaux échantillonnés et identification de l’aliasing.
+- **Échantillonnage** : implémentation de l’échantillonnage d’un signal continu et analyse du théorème de Shannon–Nyquist.
+- **Transformée de Fourier** : étude du spectre des signaux échantillonnés et identification de l’aliasing.
 - **Filtres RIF** :
   - Comparaison de plusieurs types de filtres : moyenneur, passe-bas gaussien, sinc et dérivateur.
   - Analyse de la réponse fréquentielle et de la performance des filtres.
@@ -15,10 +21,18 @@ Ce projet a été réalisé dans le cadre d'un module universitaire afin d'explo
   - Filtrage passe-bas, passe-haut, passe-bande et coupe-bande.
   - Comparaison des effets des fenêtres de Hann et rectangulaire.
  
+<br>
+
 ## Ressources du projet
 
-**Consulter le rapport complet :**  
-➡️ [Version Notebook](./Notebook_Traitement_Signal.ipynb) ou [Version PDF](./Traitement_Signal.pdf)
+Ce travail est issu d’un unique Notebook Jupyter et est disponible sous deux formats :
 
-**Fichier Python associé :**  
-➡️ [Python_Traitement_Signal.py](./src/Python_Traitement_Signal.py)
+- **Notebook interactif (.ipynb)**  
+  [`notebook/echantillonnage-et-filtrage.ipynb`](./notebook/echantillonnage-et-filtrage.ipynb)
+
+- **Version rapport (.pdf)**  
+  [`export/echantillonnage-et-filtrage.pdf`](./export/echantillonnage-et-filtrage.pdf)
+
+> La version PDF disponible dans le dossier `export/` est issue d’un export direct du Notebook Jupyter principal.
+
+
