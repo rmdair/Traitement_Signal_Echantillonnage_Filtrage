@@ -37,7 +37,6 @@ Le projet est centralisé dans un Notebook Jupyter, disponible sous deux formats
 | :--- | :--- |
 | Notebook Interactif | [`notebook/echantillonnage-et-filtrage.ipynb`](./notebook/echantillonnage-et-filtrage.ipynb) |
 | Rapport Statique (PDF) | [`export/echantillonnage-et-filtrage.pdf`](./export/echantillonnage-et-filtrage.pdf) |
-|  |  |
 
 > **Note** : La version PDF est issue d’un export direct du Notebook.
 
